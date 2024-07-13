@@ -690,7 +690,7 @@ dependencies = [
 [[package]]
 name = "rgb-invoice"
 version = "0.11.0-beta.6"
-source = "git+https://github.com/will-bitlight/rgb-std.git?rev=929c416#929c4169ec3037cef91b6d7792ae7ae687a61302"
+source = "git+https://github.com/will-bitlight/rgb-std.git?rev=78a4951#78a4951e5d029ce81f4f5794df2db6effee18b28"
 dependencies = [
  "amplify",
  "baid64",
@@ -710,7 +710,7 @@ dependencies = [
 [[package]]
 name = "rgb-std"
 version = "0.11.0-beta.6"
-source = "git+https://github.com/will-bitlight/rgb-std.git?rev=929c416#929c4169ec3037cef91b6d7792ae7ae687a61302"
+source = "git+https://github.com/will-bitlight/rgb-std.git?rev=78a4951#78a4951e5d029ce81f4f5794df2db6effee18b28"
 dependencies = [
  "aluvm",
  "amplify",
